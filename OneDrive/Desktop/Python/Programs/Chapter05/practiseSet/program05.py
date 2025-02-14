@@ -1,3 +1,0 @@
-s={}
-
-print(type(s))
